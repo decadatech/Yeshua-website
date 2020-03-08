@@ -1,8 +1,5 @@
 # Yeshua-website
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE6A902AB8336
-
-
 #HOME
 
 - [x] NAV
@@ -16,9 +13,9 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 
 - [x] NAV
 - [x] HEADER
-- [ ] QUEM SOMOS
-- [ ] MISSÃO
-- [ ] VALORES
+- [x] QUEM SOMOS
+- [x] MISSÃO
+- [x] VALORES
 - [x] FOOTER
 
 #CONTATO
@@ -27,4 +24,3 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 - [x] HEADER
 - [x] FORM. CONTATO
 - [x] FOOTER
-
