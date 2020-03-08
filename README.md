@@ -7,7 +7,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 
 - [x] NAV
 - [ ] HEADER
-- [ ] SOBRE NÓS
+- [x] SOBRE NÓS
 - [ ] PRODUTOS
 - [ ] FORM. CONTATO
 - [x] FOOTER
