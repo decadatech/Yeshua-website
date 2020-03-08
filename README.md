@@ -6,7 +6,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 #HOME
 
 - [x] NAV
-- [ ] HEADER
+- [x] HEADER
 - [x] SOBRE NÓS
 - [x] PRODUTOS
 - [x] FORM. CONTATO
@@ -15,10 +15,10 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 #SOBRE NÓS
 
 - [x] NAV
-- HEADER
-- QUEM SOMOS
-- MISSÃO
-- VALORES
+- [x] HEADER
+- [ ] QUEM SOMOS
+- [ ] MISSÃO
+- [ ] VALORES
 - [x] FOOTER
 
 #CONTATO
