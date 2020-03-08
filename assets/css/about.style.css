@@ -4,10 +4,17 @@ body {
 }
 
 .header {
-  height: 60vh;
+  height: 80vh;
   display: flex;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
+  
+  background-image: url('../images/about/undraw_creative_team_r90h.svg');
+  background-position-x: center;
+  background-position-y: top;
+  background-size: cover;
+  
+  margin-bottom: 50px;
 }
 
 .header img {

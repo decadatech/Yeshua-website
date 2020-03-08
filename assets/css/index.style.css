@@ -10,14 +10,14 @@ body {
   justify-content: center;
   align-items: center;
 
-  /* background-color: #fff;
+  background-color: #fff;
 
   background-image: url('../images/home/undraw_logistics.svg');
   background-position: center;
-  background-size: cover; */
+  background-size: cover;
 }
 
-.header::after {
+/* .header::after {
   content: '';
   display: block;
   position: absolute;
@@ -25,7 +25,7 @@ body {
   width: 80%;
   height: 80vh;
   z-index: -1;
-  opacity: 0.6;
+  opacity: 1;
   background-image: url('../images/home/undraw_logistics.svg');
   background-repeat: no-repeat;
   background-position: 50% 0;
@@ -34,10 +34,10 @@ body {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;  
-}
+} */
 
 .header h1 {
-  font-size: 35pt;
+  font-size: 28pt;
   margin-bottom: 20px;
   color: #363636;
 }

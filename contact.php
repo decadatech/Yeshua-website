@@ -46,7 +46,7 @@
 
   <section>
     <div class="container header">
-      <img src="assets/images/contact/undraw_contact_us_15o2.svg" />
+      <!-- <img src="assets/images/contact/undraw_contact_us_15o2.svg" /> -->
     </div>
   </section>
 
