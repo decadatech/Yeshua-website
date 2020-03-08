@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  /* background-color: #fff;
+
+  background-image: url('../images/home/undraw_logistics.svg');
+  background-position: center;
+  background-size: cover; */
+}
+
+.header::after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 80%;
+  height: 80vh;
+  z-index: -1;
+  opacity: 0.8;
+  background-image: url('../images/home/undraw_logistics.svg');
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;  
+}
+
+.header h1 {
+  font-size: 35pt;
+  margin-bottom: 20px;
+  color: #363636;
+}
+
+.about {
+  margin-top: 100px;
+}
+
+.about h1 {
+  font-size: 32pt;
+  padding-bottom: 10px; 
+  margin-bottom: 20px;
+  border-bottom: 2px solid #000;
+}
+
+.about p {
+  text-align: justify;
+}
+
+.about a {
+  margin-top: 10px;
+  color: #000;
+  border: 1px solid #000;
+  padding: 12px;
+}
+
+.about a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+.about .logo-col {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.products .title {
+  margin: 50px auto 40px;
+  text-align: center;
+  font-size: 40pt;
+}
+
+.products .subtitle {
+  text-align: center;
+}
+
+.products .cards-container {
+  margin-top: 50px;
+}
+
+.cards-container > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.cards-container > div .card {
+  width: 18rem;
+  border: none;
+  margin-bottom: 30px;
+}
+
+.cards-container > div .card h5, p {
+  text-align: center;
+}
+
+.contact-section {
+  background-color: rgb(214, 139, 41);
+}
+
+.contact-section .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 15px;
+}
+
+.contact-section .container a {
+  font-weight: bold;
+  color: #000;
+  border: 2px solid #000;
+  padding: 12px;
+}
+
+.contact-section .container a:hover {
+  color: #fff;;
+  background-color: #000;
+}

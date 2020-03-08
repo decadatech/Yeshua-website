@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.header img {
+  margin-top: 50px;
+  height: 80%;
+}
+
+h1 {
+  text-align: center;
+}
+
+section.about-section {
+  background-color: #f5f5f5;
+  margin-bottom: -18px;
+  padding: 0;
+}
+
+.about-container .item {
+  margin: 0 auto; 
+  max-width: 800px;
+}
+
+.about-container .item h2 {
+  border-bottom: 2px solid #000;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+}
+
+.about-container .item p {
+  text-align: justify;
+}
