@@ -24,7 +24,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 #CONTATO
 
 - [x] NAV
-- HEADER
-- FORM. CONTATO
+- [x] HEADER
+- [x] FORM. CONTATO
 - [x] FOOTER
 
