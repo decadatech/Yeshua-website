@@ -6,10 +6,10 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 #HOME
 
 - [x] NAV
-- HEADER
-- SOBRE NÓS
-- PRODUTOS
-- FORM. CONTATO
+- [] HEADER
+- [] SOBRE NÓS
+- [] PRODUTOS
+- [] FORM. CONTATO
 - [x] FOOTER
 
 #SOBRE NÓS
