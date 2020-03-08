@@ -9,7 +9,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?B9119AEE0F9123FE5AF50D3AE
 - [ ] HEADER
 - [x] SOBRE NÓS
 - [ ] PRODUTOS
-- [ ] FORM. CONTATO
+- [x] FORM. CONTATO
 - [x] FOOTER
 
 #SOBRE NÓS
