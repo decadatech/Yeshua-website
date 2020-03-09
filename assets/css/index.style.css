@@ -42,7 +42,7 @@ body {
   color: #363636;
 }
 
-.about {
+.container.about {
   margin-top: 100px;
 }
 
