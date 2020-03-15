@@ -78,7 +78,7 @@ body {
 .products .title {
   margin: 50px auto 40px;
   text-align: center;
-  font-size: 40pt;
+  font-size: 40pt;  
 }
 
 .products .subtitle {
@@ -97,7 +97,7 @@ body {
 }
 
 .cards-container > div .card {
-  width: 18rem;
+  width: 16rem;
   border: none;
   margin-bottom: 30px;
 }
