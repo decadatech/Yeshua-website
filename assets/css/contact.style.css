@@ -19,7 +19,7 @@ form {
   margin: 50px auto;
 }
 
-form h1, h5 {
+h1, h5 {
   text-align: center;
 }
 
@@ -36,4 +36,15 @@ form button:hover {
   color: #fff;
   background-color: #000;
   transition: .3s;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-info h4 {
+  margin-bottom: 30px;
 }
