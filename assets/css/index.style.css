@@ -75,7 +75,7 @@ body {
   align-items: center;
 }
 
-.products .title {
+/* .products .title {
   margin: 50px auto 40px;
   text-align: center;
   font-size: 40pt;  
@@ -104,10 +104,11 @@ body {
 
 .cards-container > div .card h5, p {
   text-align: center;
-}
+} */
 
 .contact-section {
   background-color: rgb(214, 139, 41);
+  margin-top: 5%;
 }
 
 .contact-section .container {

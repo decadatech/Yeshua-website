@@ -26,7 +26,43 @@ h1 {
   text-align: center;
 }
 
-section.about-section {
+section.products-section{
+  background-color: #f5f5f5;
+}
+
+.products .title {
+  margin: 50px auto 40px;
+  text-align: center;
+  font-size: 40pt;  
+}
+
+.products .subtitle {
+  text-align: center;
+}
+
+.products .cards-container {
+  margin-top: 50px;
+}
+
+.cards-container > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.cards-container > div .card {
+  width: 18rem;
+  border: none;
+  margin-bottom: 30px;
+  background-color: #f5f5f5;
+}
+
+.cards-container > div .card h5, p {
+  text-align: center;
+}
+
+/* section.about-section {
   background-color: #f5f5f5;
   margin-bottom: -18px;
   padding: 0;
@@ -45,4 +81,4 @@ section.about-section {
 
 .about-container .item p {
   text-align: justify;
-}
+} */

@@ -25,7 +25,7 @@
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <div class="sidenav-itens">
       <a href="index.html">HOME</a>
-      <a href="about.html">SOBRE NÓS</a>
+      <a href="product.html">PRODUTOS</a>
       <a href="contact.php">CONTATO</a>
     </div>
   </div>
@@ -36,7 +36,7 @@
       <div class="itens-desktop-nav">
         <ul>
           <li><a href="index.html">HOME</a></li>
-          <li><a href="about.html">SOBRE NÓS</a></li>
+          <li><a href="product.html">PRODUTOS</a></li>
           <li><a class="contact" href="contact.php">CONTATO</a></li>
         </ul>
       </div>
@@ -131,28 +131,28 @@
       </div>
       <div class="about item">
         <h3>Yeshua representações</h3>
-        <p>Aenean ligula nibh, molestie id vivera dapibus at dolor. In iaculis
-          vivera neq ue, ac eleifend ante lobortis id. In vive ipsum ac eros tristique.</p>
+        <p>Há 15 anos atuamos no ramo de embalagens em geral, tais como, bisnagas laminadas,
+          plásticas e de alumínio, cartuchos para bisnagas, rótulos, etiquetas e adesivos.</p>
       </div>
 
       <div class="links item">
         <h3>Navegue</h3>
         <a href="index.html"><i class="fas fa-angle-right"></i>Home</a>
-        <a href="about.html"><i class="fas fa-angle-right"></i>Sobre nós</a>
+        <a href="product.html"><i class="fas fa-angle-right"></i>Produtos</a>
         <a href="contact.php"><i class="fas fa-angle-right"></i>Contato</a>
       </div>
 
       <div class="contact item">
         <h3>Contato</h3>
         <p><i class="fas fa-map-marker-alt"></i>Rua Loren, 100 - Loren ipsum CEP 10000-000 - Loren - SP</p>
-        <p><i class="fas fa-phone-alt"></i> +31 070 3123456 </p>
-        <p><i class="fas fa-envelope"></i> loren@ipsum@loren.com </p>
+        <p><i class="fas fa-phone-alt"></i> (11) 97618.8465 </p>
+        <p><i class="fas fa-envelope"></i> salesrepsy@gmail.com </p>
         <p><i class="fas fa-clock"></i> Segunda à Sexta das 9h às 18h</p>
       </div>
     </div>
     <div class="container-fluid copyright">
       <div class="container">
-        Copyright © 2020 Decada Technology
+        Copyright © 2020 <a href="https://www.decadatech.com/">Decada Technology</a>
       </div>
     </div>
   </section>
