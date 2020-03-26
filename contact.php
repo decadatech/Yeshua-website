@@ -168,7 +168,7 @@
     </div>
     <div class="container-fluid copyright">
       <div class="container">
-        Copyright © 2020 <a href="https://www.decadatech.com/">Decada Technology</a>
+        Copyright © <span class="date-dynamic"></span> <a href="https://www.decadatech.com/">Decada Technology</a>
       </div>
     </div>
   </section>
