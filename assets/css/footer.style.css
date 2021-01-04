@@ -43,8 +43,14 @@
   margin-right: 5px;
 }
 
-.footer .copyright {
+.footer div.copyright {
   background-color: #000;
   padding: 10px;
   color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.footer div.copyright p{
+  text-align: center;
 }
